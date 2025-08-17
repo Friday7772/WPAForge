@@ -27,6 +27,6 @@ This tool must **only be used on networks you own or have explicit permission to
 ```bash
 sudo apt update
 sudo apt install aircrack-ng
-git clone https://github.com/yourusername/wifi-crack-tool.git
-cd wifi-crack-tool
-sudo python3 wifi_crack_tool.py
+git clone https://github.com/Friday7772/WPAForge.git
+cd WPAForge
+sudo python3 WPAForge.py
